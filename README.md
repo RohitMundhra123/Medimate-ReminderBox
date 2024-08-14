@@ -1,4 +1,4 @@
-# medbox
+# MediMate Reminder Box
 
 A new Flutter project.
 
